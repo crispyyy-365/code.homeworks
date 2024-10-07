@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\code.homework7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA4E4DB-1087-4CFF-A6A5-CA1E717996BB}|code.homework7\\code.homework7.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\code.homework7\\code.homework7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA4E4DB-1087-4CFF-A6A5-CA1E717996BB}|code.homework7\\code.homework7.csproj|solutionrelative:code.homework7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\code.homework7\\code.homework7\\Program.cs",
+              "RelativeDocumentMoniker": "code.homework7\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\code.homework7\\code.homework7\\Program.cs",
+              "RelativeToolTip": "code.homework7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:11:01.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
